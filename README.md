@@ -24,4 +24,4 @@ The dataset used in this project is `diabetes2.csv`, which contains the followin
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Diabetes-Prediction-Logistic-Regression.git
+   git clone https://github.com/aliibraheem516/Diabetes-Prediction-Logistic-Regression.git
